@@ -1,0 +1,52 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: georgia,serif;
+}
+h1{
+  margin: 0 auto 0 auto;
+  width: 10%;
+  font-family: Brush Script MT,cursive;
+  font-size: 45px;
+}
+ .top-container{
+
+   background-color: #7FBCD2;
+ }
+
+
+.middle-container{
+
+
+}
+
+
+.bottom-container{
+
+}
+.profile{
+  background-color: #FFF5E4;
+}
+.skill
+{
+    background-color: #6FEDD6;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.contact-me{
+  background-color: #8FE3CF;
+}
+.coding{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.piano{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
